@@ -1,8 +1,7 @@
 # Middleman-RSpec
 
 [![Build Status](https://travis-ci.org/simonrice/middleman-rspec.png)](https://travis-ci.org/simonrice/middleman-rspec)
-[![Dependency Status](https://gemnasium.com/simonrice/middleman-rspec.png)](https://gemnasium.com/simonrice/middleman-rspec) 
-[![Code Climate](https://codeclimate.com/github/simonrice/middleman-rspec.png)](https://codeclimate.com/github/simonrice/middleman-rspec)
+[![Dependency Status](https://gemnasium.com/simonrice/middleman-rspec.png)](https://gemnasium.com/simonrice/middleman-rspec)
 
 This is a very simple yet complete example demonstrating how to use Capybara and RSpec to perform integration tests with your Middleman project.  These tests can also be modified for plugins so you can use RSpec instead of Cucumber.
 
