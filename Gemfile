@@ -1,6 +1,4 @@
-# If you have OpenSSL installed, we recommend updating
-# the following line to use "https"
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem "middleman", "~>3.1.5"
 
@@ -8,7 +6,8 @@ gem "middleman", "~>3.1.5"
 gem "middleman-livereload", "~> 3.1.0"
 
 group :development do
-  gem "rspec"
+  gem "rake", "~> 10.1.0"
+  gem "rspec", "~> 2.14.1"
   gem "capybara", "~> 2.0.3"
 end
 
