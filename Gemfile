@@ -8,7 +8,7 @@ gem "middleman-livereload", "~> 3.1.0"
 group :development do
   gem "rake", "~> 10.1.0"
   gem "rspec", "~> 2.14.1"
-  gem "capybara", "~> 2.0.3"
+  gem "capybara", "~> 2.1.0"
 end
 
 # For faster file watcher updates on Windows:
