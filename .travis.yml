@@ -2,7 +2,6 @@ language: ruby
 rvm:
   - 2.0.0
   - 1.9.3
-  - jruby-19mode
   - ruby-head
   - jruby-head
 
@@ -10,3 +9,6 @@ matrix:
   allow_failures:
     - rvm: ruby-head
     - rvm: jruby-head
+
+before_deploy:
+  - rvm 1.9.3 do gem install mime-types -v 2.6.2
