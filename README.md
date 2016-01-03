@@ -15,6 +15,6 @@ This example is provided under the terms of the very permissive "Beer-Ware" lice
 
 > "THE BEER-WARE LICENSE" (Revision 42):
 >
-> Simon Rice wrote this.  As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return. Simon Rice
+> Simon Rice wrote this.  As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
 
 See the `LICENSE` file or any class or header for the full details.
